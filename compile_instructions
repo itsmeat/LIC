@@ -1,0 +1,1 @@
+g++ <file_name>.cpp utility.cpp -o test -lGL -lglut -lGLEW -lGLU
